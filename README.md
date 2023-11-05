@@ -1,4 +1,4 @@
-Completed lab notebooks and code for the course "Efficient Deep Learning" at IMT Atlantique
+Completed lab notebooks and code for the course [Efficient Deep Learning](https://github.com/brain-bzh/efficient-deep-learning) at IMT Atlantique
 
 NB lab notebooks coverted to jupyter notebooks and run locally.
 
